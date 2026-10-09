@@ -410,7 +410,7 @@
     },
     {
       "name": "toflow",
-      "description": "AI-native multi-channel B2B outreach and CRM platform. Prospect, enrich, and run outreach across email, LinkedIn, and WhatsApp.",
+      "description": "AI-native multi-channel B2B outreach and sales automation platform. Prospect, enrich, and run outreach across email, LinkedIn, and WhatsApp.",
       "category": "sales",
       "source": {
         "source": "url",
@@ -418,7 +418,7 @@
         "sha": "2e8c46911a941f192f901137f60cf8bbc70f1653"
       },
       "homepage": "https://toflow.ai",
-      "keywords": ["toflow", "toflow.ai", "outreach", "crm", "sales automation"],
+      "keywords": ["toflow", "toflow.ai", "outreach", "prospect", "enrich", "linkedin automation", "email automation", "sales automation"],
       "domains": ["toflow.ai"]
     }
   ]
